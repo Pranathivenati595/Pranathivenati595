@@ -1,5 +1,6 @@
 ## Hi there 👋  I am Pranathi
-
+<h3 align="left">Skills:</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,figma,linux,arduino,java,mongodb,mysql," />
 <!--
 **Pranathivenati595/Pranathivenati595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
