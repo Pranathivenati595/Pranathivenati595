@@ -10,8 +10,8 @@ SRM INSTITUTE OF SCIENCE AND TECHNOLOGY<img src="https://scet.berkeley.edu/wp-co
 
                   
 [![Pranathi's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathivenati595&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishnu2839&theme=dark&cache_seconds=1800)](https://git.io/streak-stats)
-[![Pranathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu2839&count_private=true&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranathivenati595&theme=dark&cache_seconds=1800)](https://git.io/streak-stats)
+[![Pranathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranathivenati595&count_private=true&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Pranathivenati595/Pranathivenati595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
