@@ -4,6 +4,9 @@
 
 <h3 align="left">Education:</h3>
 SRM INSTITUTE OF SCIENCE AND TECHNOLOGY<img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" />  -B.Tech in CSE with Specialization in AI and ML 2023-2027 
+<h3 align="left">Let's Connect</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvadlamudi90@gmail.com)
 
 <!--
 **Pranathivenati595/Pranathivenati595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
