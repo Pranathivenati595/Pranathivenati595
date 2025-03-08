@@ -8,7 +8,7 @@ SRM INSTITUTE OF SCIENCE AND TECHNOLOGY<img src="https://scet.berkeley.edu/wp-co
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranathivenati@gmail.com)
 
-
+                  
 [![Pranathi's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathivenati595&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 
